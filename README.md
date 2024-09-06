@@ -1,0 +1,1 @@
+# aws-opensearch-snapshot-transfer
